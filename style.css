@@ -58,3 +58,9 @@ body {
     width:100%;
     position:absolute;
     }
+    .carousel-inner {
+        padding: 10px 10px 10px 10px;
+        margin: 0px auto;
+        background:rebeccapurple;
+        color: florawhite;
+    }
